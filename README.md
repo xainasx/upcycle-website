@@ -1,6 +1,6 @@
 # Upcycle Website
 
-A simple web application featuring AI chatbot and machine learning model ot help generate upcycle ideas of piece of clothing. This repo only consists of the front end of the website
+A simple web application featuring AI chatbot and machine learning model to help generate upcycle ideas of piece of clothing. This repo only consists of the front end of the website
 
 
 ## Technologies Used
