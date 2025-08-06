@@ -26,7 +26,7 @@ _No build steps or server needed; works as a static site._
 
 ## File Structure
 
-- `Clothing dectection,ipynb` – Main Jupyter notebook containing all code.
+- `Clothing dectection.ipynb` – Main Jupyter notebook containing all code.
 - `index.html` – Main page with login and signup forms
 - `style.css` – Styling for the forms and layout
 - `script.js` – Handles password visibility toggle and form switching
